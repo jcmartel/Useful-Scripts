@@ -6,5 +6,5 @@ Created on Wed Jan 13 08:54:40 2016
 """
 
 import os
-os.chdir('C:/Users/jmartel71/Desktop/Python Scripts/')
+os.chdir('C:/Users/jmartel71/Desktop/')
 os.getcwd()
