@@ -1,0 +1,6 @@
+md City_Buildings
+chdir City_Buildings
+md Documentation
+md Datasets Datasets\Data_Raw Datasets\Data_Clean
+md Analysis Analysis\Analysis_Raw Analysis\Analysis_Clean 
+md Work Work\Drafts Work\Posted
