@@ -1,0 +1,4 @@
+#Example
+mkdir -p myProject/{src,doc/{api,system},tools,db}
+
+mkdir -p MetaRegression/{Planning,Documentation/{ResearchLogs,DoFiles,Codebooks},Datasets/{DataRaw,DataClean},Analysis/{FigureTables},Studies,Readings,Work/{Drafts,Posted}}
