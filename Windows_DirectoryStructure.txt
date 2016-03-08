@@ -1,5 +1,5 @@
 cd C:\Users\jmartel71\Documents\
-md City_Buildings
+md Directory_Name
 md Documentation
 md Datasets Datasets\Data_Raw Datasets\Data_Clean
 md Analysis Analysis\Analysis_Raw Analysis\Analysis_Clean 
