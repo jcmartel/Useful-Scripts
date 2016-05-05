@@ -1,5 +1,6 @@
 cd C:\Users\jmartel71\Documents\
 md Directory_Name
+chdir Directory_Name
 md A_Documentation
 md B_Datasets Datasets\Data_Raw Datasets\Data_Clean\Data_Processing
 md C_Analysis Analysis\Analysis_Processing Analysis\Analysis_Clean 
