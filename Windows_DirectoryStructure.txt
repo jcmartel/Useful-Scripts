@@ -2,6 +2,6 @@ cd C:\Users\jmartel71\Documents\
 md Directory_Name
 chdir Directory_Name
 md A_Documentation
-md B_Datasets Datasets\Data_Raw Datasets\Data_Clean\Data_Processing
-md C_Analysis Analysis\Analysis_Processing Analysis\Analysis_Clean 
-md D_Work Work\Drafts Work\Posted
+md B_Datasets B_Datasets\Data_Raw B_Datasets\Data_Clean B_Datasets\Data_Processing
+md C_Analysis C_Analysis\Analysis_Processing C_Analysis\Analysis_Clean 
+md D_Work D_Work\Drafts D_Work\Posted
